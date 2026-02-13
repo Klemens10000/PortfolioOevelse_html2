@@ -2,6 +2,7 @@ h1{
     font-size: 3rem;
     line-height: 4rem;
 }
-section{
+.about-me{
     margin: 0 auto;
+    max-width: 500px;
 }
